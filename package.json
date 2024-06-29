@@ -1,7 +1,7 @@
 {
   "name": "@ocopjs/app-static",
   "description": "OcopJS - Ứng dụng để trả về trang từ tệp tĩnh. 🇻🇳",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "ocopjs",
   "scripts": {
     "format": "prettier --write \"**/*.{ts,tsx,md,js}\"",
